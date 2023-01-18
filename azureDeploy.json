@@ -8,10 +8,10 @@
             "allowedValues": [
                 "Central US",
                 "France Central",
-				"East US 2",
-				"West Europe",
-				"Southeast Asia",
-		    "UAE North"
+		"East US 2",
+		"West Europe",
+		"Southeast Asia",
+		"UAE North"
             ],
             "metadata": {
                 "description": "Pick the region where you will deploy your VM-Series that supports Availability Zones"
